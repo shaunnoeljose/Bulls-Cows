@@ -86,4 +86,4 @@ def game():
     
 if __name__ == "__main__":
     print("Welcome to the Bulls and Cows game!\nFind the 4-digit number I have guessed in 10 attempts.")
-    game()
+    game()# he game starts
