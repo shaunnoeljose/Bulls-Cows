@@ -8,7 +8,7 @@ After each guess the entropy value associated with the filtered possible number 
 Added a couple of extra functionalities:
 --> The user gets a prompt for hint after 4 attempts
 --> After the user have succeed or failed to guess the number, the user can choose to play the game again.
-''''
+'''
 import random
 import math
 
